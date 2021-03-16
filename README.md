@@ -1,5 +1,5 @@
 # phptodo
-Todo website With php and Bootstrap
+Todo website With php and Bootstrap5
 --> in This php Development WebPage we Working with CURD operations
 
 	1. Create Title and Description
@@ -7,4 +7,4 @@ Todo website With php and Bootstrap
 	3. Update The Title and Description
 	4. Delete The Title and Description
 
-And With This Operations We show How Work with MySql in php
+And With This Operations We show How Work with MySql in php 
